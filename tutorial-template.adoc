@@ -31,7 +31,7 @@ Installing Tails from Windows used to require two flashdrives, but this new inst
 . On the left side of the screen, click "Download Tails 3.13.1 USB image (1.2 GB)".
 . We're going going to trust the file, and skip verification. Click "Skip verification". 
 +
-image::Skip.png[]
+image::Skip.PNG[]
 . Click the "Download Etcher for Windows" link. 
 . Make sure your flashdrive is plugged in and working. 
 . Once the download is complete, open Etcher. 
