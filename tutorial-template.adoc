@@ -73,4 +73,5 @@ You will also need to re-enter any WiFi passwords/Capture Portals for every boot
 
 . What makes Tails a useful operating system?
 . What kind of person would be interesting in using Tails? 
+. Are there any other browsers to use besides Tor? 
 
