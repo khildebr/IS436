@@ -21,8 +21,7 @@ Tails can be, and some would say should be, installed using Linux systems, but t
 +
 '''
 . One flashdrive, at least 8 GB. 
-+
-'''
+
 Installing Tails from Windows used to require two flashdrives, but this new installation method means that only one is now required.
 +
 '''
