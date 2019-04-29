@@ -18,7 +18,7 @@ This tutorial will be about installing the operating system "Tails" from Windows
 +
 ```
 Tails can be, and some would say should be, installed using Linux systems, but this tutorial will be about using Windows. 
-'''
+```
 . One flashdrive, at least 8 GB. 
 +
 ```
