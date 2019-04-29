@@ -8,12 +8,13 @@ This tutorial will be about installing the operating system "Tails" from Windows
 +
 '''
 . By the end of this tutorial, you will be able to:
+'''
 +
 '''
 . Install Tails from Windows onto a flashdrive.
 . Connect to the Internet from Tails
 . Start the Tor browser 
-
+'''
 
 == Prerequisites
 
