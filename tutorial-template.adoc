@@ -16,7 +16,7 @@ This tutorial will be about installing the operating system "Tails" from Windows
 * Connect to the Internet from Tails
 * Start the Tor browser 
 +
-'''
+```
 
 == Prerequisites
 
