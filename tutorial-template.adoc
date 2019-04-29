@@ -16,7 +16,7 @@ This tutorial will be about installing the operating system "Tails" from Windows
 
 . Windows computer (Windows 7 or later)
 +
-'''
+```
 Tails can be, and some would say should be, installed using Linux systems, but this tutorial will be about using Windows. 
 '''
 . One flashdrive, at least 8 GB. 
@@ -52,21 +52,21 @@ image::Skip.PNG[]
 . Select your Wi-Fi, and enter a password if needed. 
 . If your internet has a capture portal, you will need to complete some additional steps. 
 +
-'''
+```
 After connection to the Wifi, go to the top left of the screen where it says "Applications".
 Go to the "Internet" section, and open "Unsafe Browser". (Unsafe Browser just means that you can be tracked, just like with a normal browser like Chrome.)
 Go to a webite, and complete the capture portal. 
 Close the Unsafe Browser. It may take some time to close, so just leave it alone for a few minutes. 
 +
-'''
+```
 . When you get a notification saying "Tor is ready" then you are connected to the Internet and ready to go!
 . Open Tor, and begin browser. 
 +
-'''
+```
 Notes: Tails does not retain any information between boots. This is what makes it so secure. So do not store anything on Tails and expect it to be there the next time you boot. 
 You will also need to re-enter any WiFi passwords/Capture Portals for every boot.
 +
-'''
+```
 
 == Challenge
 
