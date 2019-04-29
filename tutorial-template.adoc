@@ -5,17 +5,14 @@ Author: Katie Hildebrand
 == Getting Started with Tails
 
 This tutorial will be about installing the operating system "Tails" from Windows. The developers of Tails recently changed the entire installation process for Tails, making it much easiest and faster. So we will go over that new installation process, as well as how to get connected to the internet in Tails and get Tor running. 
-+
-'''
+```
 . By the end of this tutorial, you will be able to:
+```
 +
-'''
-+
-'''
+```
 * Install Tails from Windows onto a flashdrive.
 * Connect to the Internet from Tails
 * Start the Tor browser 
-+
 ```
 
 == Prerequisites
